@@ -41,6 +41,9 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'College_Management_System',
     'fontawesomefree',
+    'django-tempus-dominpus',
+    'icheck-bootstrap',
+    "bootstrap4",
 ]
 
 MIDDLEWARE = [

@@ -1,2 +1,16 @@
-django==4.1
-fontawesomefree==5.15.4
+# django
+# fontawesomefree==5.15.4
+# pip install django-tempus-dominus==5.0.1.2
+# icheck-bootstrap #python3 -m pip install bootstrap4
+# #npm install -g npm
+# #npm install icheck-bootstrap
+# #pip install django-bootstrap4
+# django-bootstrap4==22.2
+
+fontawesomefree
+django-tempus-dominpus
+icheck-bootstrap
+#npm install -g npm
+#npm install icheck-bootstrap
+#pip install django-bootstrap4
+django-bootstrap4
