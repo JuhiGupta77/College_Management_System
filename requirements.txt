@@ -1,4 +1,5 @@
 # django
+# pip install "Django==3.2.*"
 # fontawesomefree==5.15.4
 # pip install django-tempus-dominus==5.0.1.2
 # icheck-bootstrap #python3 -m pip install bootstrap4
